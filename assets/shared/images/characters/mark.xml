@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sprites_animate.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YOU FUCKING BASTARD0000" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0001" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0002" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0003" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0004" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0005" x="0" y="0" width="240" height="383" frameX="-78" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0006" x="240" y="0" width="272" height="384" frameX="-46" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0007" x="512" y="0" width="304" height="385" frameX="-14" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0008" x="816" y="0" width="310" height="385" frameX="-8" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0009" x="1126" y="0" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0010" x="1126" y="0" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0011" x="1126" y="0" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0012" x="1126" y="0" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0013" x="1444" y="0" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0014" x="0" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0015" x="0" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0016" x="318" y="385" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0017" x="636" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0018" x="636" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0019" x="636" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0020" x="636" y="385" width="318" height="384" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0021" x="954" y="385" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0022" x="954" y="385" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0023" x="954" y="385" width="318" height="385" frameX="0" frameY="0" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0024" x="1272" y="385" width="278" height="381" frameX="-35" frameY="-4" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0025" x="1550" y="385" width="230" height="379" frameX="-94" frameY="-5" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0026" x="0" y="770" width="366" height="377" frameX="-96" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0027" x="366" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0028" x="811" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0029" x="811" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0030" x="811" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0031" x="811" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0032" x="1256" y="770" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0033" x="0" y="1147" width="445" height="376" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0034" x="0" y="1147" width="445" height="376" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0035" x="445" y="1147" width="445" height="376" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0036" x="890" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0037" x="890" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0038" x="890" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0039" x="890" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0040" x="1335" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0041" x="1335" y="1147" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0042" x="0" y="1524" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0043" x="0" y="1524" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0044" x="0" y="1524" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0045" x="0" y="1524" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="YOU FUCKING BASTARD0046" x="0" y="1524" width="445" height="377" frameX="-103" frameY="-8" frameWidth="548" frameHeight="385"/>
+	<SubTexture name="mark_idle0000" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0001" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0002" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0003" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0004" x="686" y="1524" width="241" height="364" frameX="0" frameY="-22" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0005" x="686" y="1524" width="241" height="364" frameX="0" frameY="-22" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0006" x="927" y="1524" width="241" height="370" frameX="0" frameY="-16" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0007" x="1168" y="1524" width="241" height="372" frameX="0" frameY="-14" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0008" x="1168" y="1524" width="241" height="372" frameX="0" frameY="-14" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0009" x="1409" y="1524" width="241" height="378" frameX="0" frameY="-8" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0010" x="1409" y="1524" width="241" height="378" frameX="0" frameY="-8" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0011" x="1650" y="1524" width="241" height="382" frameX="0" frameY="-4" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0012" x="1650" y="1524" width="241" height="382" frameX="0" frameY="-4" frameWidth="241" frameHeight="386"/>
+	<SubTexture name="mark_idle0013" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0014" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0015" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0016" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0017" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0018" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0019" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0020" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0021" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0022" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0023" x="445" y="1524" width="241" height="386"/>
+	<SubTexture name="mark_idle0024" x="445" y="1524" width="241" height="386"/>
+</TextureAtlas>

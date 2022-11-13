@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sprites_animate.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mark_down0000" x="0" y="0" width="445" height="358" frameX="0" frameY="-6" frameWidth="445" frameHeight="364"/>
+	<SubTexture name="mark_down0001" x="0" y="0" width="445" height="358" frameX="0" frameY="-6" frameWidth="445" frameHeight="364"/>
+	<SubTexture name="mark_down0002" x="0" y="0" width="445" height="358" frameX="0" frameY="-6" frameWidth="445" frameHeight="364"/>
+	<SubTexture name="mark_down0003" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0004" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0005" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0006" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0007" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0008" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0009" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0010" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0011" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0012" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_down0013" x="445" y="0" width="445" height="364"/>
+	<SubTexture name="mark_gunidle0000" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0001" x="1335" y="0" width="446" height="372" frameX="-2" frameY="-5" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0002" x="1781" y="0" width="447" height="368" frameX="-3" frameY="-9" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0003" x="2228" y="0" width="447" height="362" frameX="-5" frameY="-15" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0004" x="2675" y="0" width="447" height="357" frameX="-6" frameY="-20" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0005" x="3122" y="0" width="448" height="360" frameX="-5" frameY="-17" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0006" x="3570" y="0" width="447" height="362" frameX="-5" frameY="-15" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0007" x="0" y="377" width="447" height="364" frameX="-4" frameY="-13" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0008" x="447" y="377" width="446" height="366" frameX="-4" frameY="-11" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0009" x="893" y="377" width="446" height="368" frameX="-3" frameY="-8" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0010" x="1339" y="377" width="446" height="370" frameX="-2" frameY="-6" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0011" x="1785" y="377" width="446" height="372" frameX="-1" frameY="-4" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0012" x="2231" y="377" width="446" height="374" frameX="-1" frameY="-2" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0013" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0014" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0015" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0016" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0017" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0018" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0019" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0020" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0021" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0022" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0023" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_gunidle0024" x="890" y="0" width="445" height="377" frameX="0" frameY="0" frameWidth="453" frameHeight="377"/>
+	<SubTexture name="mark_left0000" x="2677" y="377" width="445" height="364" frameX="0" frameY="-1" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0001" x="2677" y="377" width="445" height="364" frameX="0" frameY="-1" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0002" x="2677" y="377" width="445" height="364" frameX="0" frameY="-1" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0003" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0004" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0005" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0006" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0007" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0008" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0009" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0010" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0011" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0012" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_left0013" x="3122" y="377" width="445" height="365" frameX="-5" frameY="0" frameWidth="450" frameHeight="365"/>
+	<SubTexture name="mark_right0000" x="3567" y="377" width="452" height="376" frameX="-3" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0001" x="3567" y="377" width="452" height="376" frameX="-3" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0002" x="3567" y="377" width="452" height="376" frameX="-3" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0003" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0004" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0005" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0006" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0007" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0008" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0009" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0010" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0011" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0012" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_right0013" x="0" y="753" width="450" height="376" frameX="0" frameY="0" frameWidth="455" frameHeight="376"/>
+	<SubTexture name="mark_shot0000" x="450" y="753" width="446" height="377" frameX="-15" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0001" x="450" y="753" width="446" height="377" frameX="-15" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0002" x="450" y="753" width="446" height="377" frameX="-15" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0003" x="450" y="753" width="446" height="377" frameX="-15" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0004" x="450" y="753" width="446" height="377" frameX="-15" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0005" x="896" y="753" width="618" height="377" frameX="-8" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0006" x="1514" y="753" width="551" height="377" frameX="0" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0007" x="2065" y="753" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0008" x="2511" y="753" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0009" x="2957" y="753" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0010" x="3403" y="753" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0011" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0012" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0013" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0014" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0015" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0016" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0017" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0018" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0019" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0020" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0021" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0022" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0023" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0024" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0025" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0026" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0027" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0028" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0029" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0030" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0031" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0032" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0033" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0034" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0035" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0036" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0037" x="0" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0038" x="446" y="1130" width="446" height="377" frameX="-14" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0039" x="892" y="1130" width="418" height="377" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0040" x="1310" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0041" x="1700" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0042" x="2090" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0043" x="2480" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0044" x="2870" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0045" x="3260" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0046" x="3650" y="1130" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0047" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0048" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0049" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0050" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0051" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0052" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0053" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0054" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0055" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0056" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0057" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0058" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0059" x="0" y="1507" width="390" height="377" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0060" x="390" y="1507" width="365" height="377" frameX="-11" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0061" x="755" y="1507" width="342" height="378" frameX="-12" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0062" x="1097" y="1507" width="338" height="378" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0063" x="1435" y="1507" width="338" height="378" frameX="-16" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0064" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0065" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0066" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0067" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0068" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0069" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0070" x="1773" y="1507" width="336" height="378" frameX="-18" frameY="-6" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0071" x="2109" y="1507" width="298" height="384" frameX="-20" frameY="0" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0072" x="2407" y="1507" width="362" height="379" frameX="-32" frameY="-4" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0073" x="2769" y="1507" width="446" height="367" frameX="-30" frameY="-16" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0074" x="3215" y="1507" width="458" height="299" frameX="-77" frameY="-85" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0075" x="0" y="1891" width="445" height="99" frameX="-58" frameY="-285" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0076" x="445" y="1891" width="283" height="88" frameX="-200" frameY="-296" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0077" x="728" y="1891" width="0" height="0" frameX="-262" frameY="-132" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0078" x="728" y="1891" width="0" height="0" frameX="-262" frameY="-132" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0079" x="728" y="1891" width="0" height="0" frameX="-262" frameY="-132" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_shot0080" x="728" y="1891" width="0" height="0" frameX="-262" frameY="-132" frameWidth="626" frameHeight="384"/>
+	<SubTexture name="mark_up0000" x="728" y="1891" width="445" height="391"/>
+	<SubTexture name="mark_up0001" x="728" y="1891" width="445" height="391"/>
+	<SubTexture name="mark_up0002" x="728" y="1891" width="445" height="391"/>
+	<SubTexture name="mark_up0003" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0004" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0005" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0006" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0007" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0008" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0009" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0010" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0011" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0012" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="mark_up0013" x="1173" y="1891" width="445" height="385" frameX="0" frameY="-6" frameWidth="445" frameHeight="391"/>
+	<SubTexture name="missdownMARK0000" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0001" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0002" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0003" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0004" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0005" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0006" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0007" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0008" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0009" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0010" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0011" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0012" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missdownMARK0013" x="1618" y="1891" width="445" height="358"/>
+	<SubTexture name="missleftMARK0000" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0001" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0002" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0003" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0004" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0005" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0006" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0007" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0008" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0009" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0010" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0011" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0012" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missleftMARK0013" x="2063" y="1891" width="445" height="364"/>
+	<SubTexture name="missrightMARK0000" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0001" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0002" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0003" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0004" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0005" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0006" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0007" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0008" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0009" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0010" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0011" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0012" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missrightMARK0013" x="2508" y="1891" width="452" height="376"/>
+	<SubTexture name="missupMARK0000" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0001" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0002" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0003" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0004" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0005" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0006" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0007" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0008" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0009" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0010" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0011" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0012" x="2960" y="1891" width="445" height="391"/>
+	<SubTexture name="missupMARK0013" x="2960" y="1891" width="445" height="391"/>
+</TextureAtlas>

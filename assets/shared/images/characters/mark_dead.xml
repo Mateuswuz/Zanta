@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sprites_animate.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mark_dead0000" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0001" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0002" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0003" x="244" y="0" width="258" height="347" frameX="0" frameY="-19" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0004" x="244" y="0" width="258" height="347" frameX="0" frameY="-19" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0005" x="502" y="0" width="252" height="350" frameX="0" frameY="-16" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0006" x="754" y="0" width="252" height="352" frameX="0" frameY="-14" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0007" x="754" y="0" width="252" height="352" frameX="0" frameY="-14" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0008" x="1006" y="0" width="249" height="354" frameX="0" frameY="-12" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0009" x="1006" y="0" width="249" height="354" frameX="0" frameY="-12" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0010" x="1255" y="0" width="248" height="359" frameX="0" frameY="-7" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0011" x="1503" y="0" width="246" height="362" frameX="0" frameY="-4" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0012" x="1503" y="0" width="246" height="362" frameX="0" frameY="-4" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0013" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0014" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0015" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0016" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0017" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0018" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0019" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0020" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0021" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0022" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0023" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_dead0024" x="0" y="0" width="244" height="366" frameX="0" frameY="0" frameWidth="258" frameHeight="366"/>
+	<SubTexture name="mark_is_up0000" x="1749" y="0" width="114" height="19" frameX="-87" frameY="-345" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0001" x="1863" y="0" width="163" height="48" frameX="-72" frameY="-316" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0002" x="0" y="366" width="174" height="75" frameX="-69" frameY="-290" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0003" x="174" y="366" width="176" height="103" frameX="-67" frameY="-262" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0004" x="350" y="366" width="191" height="142" frameX="-52" frameY="-224" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0005" x="541" y="366" width="230" height="197" frameX="-19" frameY="-168" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0006" x="771" y="366" width="234" height="217" frameX="-15" frameY="-147" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0007" x="1005" y="366" width="246" height="241" frameX="-3" frameY="-124" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0008" x="1251" y="366" width="247" height="272" frameX="-2" frameY="-92" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0009" x="1498" y="366" width="249" height="294" frameX="0" frameY="-70" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0010" x="1747" y="366" width="249" height="314" frameX="0" frameY="-50" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0011" x="0" y="680" width="249" height="334" frameX="0" frameY="-30" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0012" x="249" y="680" width="249" height="354" frameX="0" frameY="-11" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0013" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0014" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0015" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0016" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0017" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+	<SubTexture name="mark_is_up0018" x="498" y="680" width="244" height="365" frameX="0" frameY="0" frameWidth="249" frameHeight="366"/>
+</TextureAtlas>
