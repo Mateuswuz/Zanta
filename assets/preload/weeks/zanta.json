@@ -1,0 +1,32 @@
+{
+	"storyName": "well do you have your doors and windows locked?",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "zanta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"zanta",
+			"N",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
