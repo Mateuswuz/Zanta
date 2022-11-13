@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mark_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				108,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "you fucking bastard",
+			"indices": [],
+			"name": "YOU FUCKING BASTARD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mark",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cesar",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		29,
+		29
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

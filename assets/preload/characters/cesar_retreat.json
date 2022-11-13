@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cesar_smotrit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				31
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "cesar_scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shocked",
+			"indices": [],
+			"name": "cesar_shocked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cesar_retreat",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mark",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

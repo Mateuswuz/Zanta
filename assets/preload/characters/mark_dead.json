@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				36,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mark_dead"
+		},
+		{
+			"offsets": [
+				36,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "up",
+			"indices": [],
+			"name": "mark_is_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mark_dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cesar",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		29,
+		29
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

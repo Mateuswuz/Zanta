@@ -1,63 +1,74 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				53,
-				70
+				76,
+				56
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "mom_idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "shot_idle"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				132,
-				47
+				145,
+				33
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "mom_left",
+			"name": "shot_left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-62,
-				65
+				-49,
+				50
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "mom_right",
+			"name": "shot_right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-58,
-				136
+				-45,
+				123
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "mom_up",
+			"name": "shot_up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				-50
+				71,
+				-65
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "mom_down",
+			"name": "shot_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				92
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "N_shot",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/mom",
+	"image": "characters/N_shot",
 	"position": [
 		0,
 		350

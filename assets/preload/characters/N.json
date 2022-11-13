@@ -3,12 +3,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				53,
+				65,
 				70
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "mom_idle",
+			"name": "N_idle",
 			"indices": []
 		},
 		{
@@ -19,45 +19,56 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "mom_left",
+			"name": "N_left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-62,
-				65
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "mom_right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-58,
-				136
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "mom_up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				57,
+				55,
 				-50
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "mom_down",
+			"name": "N_down",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "N_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				65
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "N_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "morph",
+			"indices": [],
+			"name": "N_morph"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/mom",
+	"image": "characters/N",
 	"position": [
 		0,
 		350
@@ -73,6 +84,6 @@
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 5.99999999999999,
 	"scale": 1.2
 }

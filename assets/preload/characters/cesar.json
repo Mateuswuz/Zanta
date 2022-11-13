@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cesar_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cesar_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cesar_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cesar_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cesar_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				33
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cesar",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cesar",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		29,
+		29
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1.2
+}
