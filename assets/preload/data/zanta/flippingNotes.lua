@@ -1,0 +1,10 @@
+function onSongStart()
+noteTweenX("NoteMove1", 0, 732, 0.000001, cubeInOut)
+noteTweenX("NoteMove2", 4, 92, 0.000001, cubeInOut)
+noteTweenX("NoteMove3", 1, 844, 0.000001, cubeInOut)
+noteTweenX("NoteMove4", 5, 204, 0.000001, cubeInOut)
+noteTweenX("NoteMove5", 2, 956, 0.000001, cubeInOut)
+noteTweenX("NoteMove6", 6, 316, 0.000001, cubeInOut)
+noteTweenX("NoteMove7", 3, 1068, 0.000001, cubeInOut)
+noteTweenX("NoteMove8", 7, 428, 0.000001, cubeInOut)
+end
